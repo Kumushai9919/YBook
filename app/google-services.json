@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471901532966",
+    "project_id": "ybook1-4ac74",
+    "storage_bucket": "ybook1-4ac74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471901532966:android:ec69f508fb5bb30b89c7e7",
+        "android_client_info": {
+          "package_name": "com.example.ybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471901532966-mcsniahvs5hlppuln5o03r39mdr92oq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ybook",
+            "certificate_hash": "cd0a1e05e863fe1155663c8d780f3775b2ade64a"
+          }
+        },
+        {
+          "client_id": "471901532966-jtm42j237ocrl40pcvitr65r93eu0g1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8XV6fAr4DNRwwxuIgBslGIR-rvjAARg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471901532966-jtm42j237ocrl40pcvitr65r93eu0g1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
